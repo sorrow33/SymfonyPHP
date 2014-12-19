@@ -1,4 +1,5 @@
-my_app_site:
-    resource: "@MyAppSiteBundle/Resources/config/routing.yml"
+pw_site:
+    resource: "@PWSiteBundle/Resources/config/routing.yml"
     prefix:   /
+
 
